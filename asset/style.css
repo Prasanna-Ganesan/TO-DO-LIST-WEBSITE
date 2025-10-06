@@ -1,0 +1,23 @@
+#want-to-do{
+    margin-top: 100px;
+    margin-left:800px;
+    border-radius: 5%;
+    height:300px;
+    width :300px;
+    padding-top:10px;
+    text-align:justify;
+    background-color:rgb(247, 232, 252);
+    
+}
+.finished-task{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top:10px;
+    margin-left:800px;
+    border-radius: 5%;
+    height:300px;
+    width:300px;
+    padding-top:10px;
+    background-color:rgb(228, 241, 247);
+    
+}
+
